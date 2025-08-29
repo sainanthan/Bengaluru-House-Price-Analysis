@@ -39,10 +39,10 @@ In *1st Block Jayanagar*:
 
 ## 📊 Power BI Dashboard  
 ### Dashboard Preview  
-![Dashboard Screenshot](dashboard/screenshots/dashboard_overview.png)  
+![Dashboard Screenshot](C:/Users/sainanthan/OneDrive/Pictures/Screenshots)  
 
 ### Anomaly Chart  
-![Anomaly Screenshot](dashboard/screenshots/anomaly_chart.png)  
+![Anomaly Screenshot](C:/Users/sainanthan/OneDrive/Pictures/Screenshots)  
 
 ---
 
