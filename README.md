@@ -37,13 +37,3 @@ In *1st Block Jayanagar*:
 
 ---
 
-## 📊 Power BI Dashboard  
-### Dashboard Preview  
-(C:/Users/sainanthan/OneDrive/Pictures/Screenshots). 
-
-### Anomaly Chart  
-![Anomaly Screenshot](C:/Users/sainanthan/OneDrive/Pictures/Screenshots)  
-
----
-
-## 📂 Repository Structure  
